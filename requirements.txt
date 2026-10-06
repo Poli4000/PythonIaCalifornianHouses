@@ -1,2 +1,4 @@
-# TODO: sustituir por el fichero generado desde tu entorno aislado
-# (debe incluir numpy, pandas, scikit-learn, matplotlib, joblib)
+# TODO: Las dependencias para ejecutar app.py en producción.
+# Puedes incluir las necesarias para entrenar el modelo tambien.
+# Revisa los imports de app.py y decide cuáles son necesarias.
+
